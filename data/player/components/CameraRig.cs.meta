@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>00d1a5f3b05a96d020ab2aa66466027406c007e0</guid>
+	<type>component</type>
+	<hash>78126b96cbbfe4f1f9c52d6e1a42fb86d24faaa07c72620b33c16bc50f531eca</hash>
+	<runtimes>
+		<runtime id="00d1a5f3b05a96d020ab2aa66466027406c007e0" name="CameraRig.cs" link="0"/>
+		<runtime id="ba44627dabb87174d8043a068cfaad77dc3299bf" name="CameraRig.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
