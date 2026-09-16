@@ -8,11 +8,13 @@
 /data/scripts.ung
 
 /obj/
+/.gemini/
 *.csproj.user
 *.suo
 .vs/
 
 /data/.runtimes/
+/data/.editor2/
 /data/.cache_textures/
 /data/.thumbnails/
 /.thumbnails/
